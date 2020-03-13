@@ -1,2 +1,1 @@
-# stackoverflowapp
-Stackoverflow test app
+# stackoverflowclient
